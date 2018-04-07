@@ -1,0 +1,12 @@
+/test/CMakeFiles
+/test/*/CMakeFiles
+/build
+/CMakeLists.txt.user
+/.idea
+/CMakeFiles
+/src/3rdparty
+/cmake-build-*
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+cmake-build-release/
